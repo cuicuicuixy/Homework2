@@ -75,29 +75,4 @@ if __name__ == '__main__':
     plt.xlabel('height/cm')
     plt.ylabel('Count')
     plt.plot(x, y(x), 'b', linewidth=2)
-    plt.show()
-
-    
-    
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-   
-    
-    
-    
+    plt.show()    
